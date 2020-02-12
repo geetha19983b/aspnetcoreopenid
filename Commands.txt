@@ -1,0 +1,10 @@
+To check if the Identity server is working
+
+https://localhost:44359/.well-known/openid-configuration
+
+idenity server ui code.run the power shell command in the idp project folder to copy the ui code
+
+https://github.com/IdentityServer/IdentityServer4.Quickstart.UI
+
+
+https://github.com/KevinDockx/SecuringAspNetCore2WithOAuth2AndOIDC
